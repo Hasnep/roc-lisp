@@ -1,0 +1,15 @@
+keep_dirs: true
+deps:
+  - url: https://github.com/roc-lang/unicode
+    from: package/
+    to: src/lib/Unicode
+    options:
+      ref: heads/main
+
+  - url: https://github.com/roc-lang/unicode
+    from: .
+    to: src/lib/
+    files:
+      - LICENSE
+    options:
+      ref: heads/main

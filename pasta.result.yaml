@@ -1,0 +1,23 @@
+deps:
+    - url: https://github.com/roc-lang/unicode
+      source_info:
+        reference: 2b6c68c88907010b36ae1c5bd0c0751f7a90159e
+        message: |-
+            Merge pull request #14 from roc-lang/docs-link
+
+            add docs link
+        author:
+            date: 2024-07-13T12:32:39Z
+            name: GitHub
+            email: noreply@github.com
+    - url: https://github.com/roc-lang/unicode
+      source_info:
+        reference: 2b6c68c88907010b36ae1c5bd0c0751f7a90159e
+        message: |-
+            Merge pull request #14 from roc-lang/docs-link
+
+            add docs link
+        author:
+            date: 2024-07-13T12:32:39Z
+            name: GitHub
+            email: noreply@github.com
